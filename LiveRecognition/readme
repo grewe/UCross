@@ -1,0 +1,1 @@
+directory containing a python based live processing of data from incomming web-cam or ip camera to the LSTM based UCross model (Left/Right/Straight) that does directional correciton for low vision people crossing a crosswalk.
